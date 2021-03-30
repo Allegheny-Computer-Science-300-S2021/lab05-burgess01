@@ -11,18 +11,22 @@ I used the interactive demo in order to conduct my analysis.
 
  2. How similar were the two sequences (`s1.fasta` and `s2.fasta`) which you applied an alignment program?
 
- #TODO
+ The two sequences were very similar to each other.
 
 
  3. Are the two sequences closely related to each other, in your opinion?
 
- #TODO
+ I think that the sequences are closely related to each other.
 
 
  4. What proof do you have to suggest such a claim?
 
 
- #TODO
+ When you compare the two sequences, you get this result:
+A	T	T	T	G	G	C	T	A	C	A	T	T	T	C	A	C	A	G	T	-
+A	T	T	T	C	A	C	A	G	T	A	T	T	-	C	A	C	T	G	A	G
+ Most of these bases are the same. In fact, out of the 22 positions available in the sequences, 12 out of the 22 are matching. While this might not seem like a lot, if they weren't related it would be very hard to find that many matching bases. While they might not be direct relatives, it seems likely that they were at one point the same species.
+
 
 
 
